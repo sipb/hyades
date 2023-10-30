@@ -1,0 +1,7 @@
+result/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
